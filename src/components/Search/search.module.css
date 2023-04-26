@@ -1,0 +1,10 @@
+.searchLabel {
+    margin-bottom: 30px;
+    display: block;
+}
+
+.searchLabel input {
+    display: block;
+    width: 33%;
+    margin-top: 15px;
+}

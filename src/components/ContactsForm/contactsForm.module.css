@@ -1,0 +1,23 @@
+.contactsForm {
+    border: 2px solid grey;
+    width: 25%;
+    padding: 30px;
+}
+
+.contactsForm label {
+    display: block;
+    font-size: 18px;
+}
+
+.contactsForm label:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.contactsForm input {
+    display: block;
+    width: 50%;
+}
+
+.addContactButton {
+    padding: 10px;
+}
